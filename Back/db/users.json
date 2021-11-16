@@ -1,5 +1,4 @@
 [
-    { "id": 1, "email": "durh1999@gmail.com", "password": "1234", "todos": [] },
-    { "id": 2, "email": "durh99@gmail.com", "password": "1234", "todos": [] }
-  ]
-  
+  { "id": 1, "email": "durh1999@gmail.com", "password": "1234", "todos": [] },
+  { "id": 2, "email": "durh99@gmail.com", "password": "1234", "todos": [] }
+]
