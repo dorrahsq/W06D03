@@ -1,4 +1,12 @@
 [
-  { "id": 1, "email": "durh1999@gmail.com", "password": "1234", "todos": [] },
-  { "id": 2, "email": "durh99@gmail.com", "password": "1234", "todos": [] }
+  {
+    "id": 1,
+    "email": "dorrah",
+    "password": "44",
+    "todos": [
+      { "todoId": 1, "todoName": "code" },
+      { "todoId": 2, "todoName": "codeAgain" },
+      { "todoId": 3, "todoName": "drink water" }
+    ]
+  }
 ]
